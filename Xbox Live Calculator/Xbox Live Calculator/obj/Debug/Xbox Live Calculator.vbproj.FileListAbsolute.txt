@@ -1,0 +1,12 @@
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\bin\Debug\Xbox Live Calculator.exe.config
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\bin\Debug\Xbox Live Calculator.exe
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\bin\Debug\Xbox Live Calculator.pdb
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\bin\Debug\Xbox Live Calculator.xml
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox_Live_Calculator.frmMain.resources
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox_Live_Calculator.Resources.resources
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.vbproj.GenerateResource.Cache
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.exe
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.xml
+C:\Users\Jeremy Koepke\source\repos\Xbox Live Calculator\Xbox Live Calculator\obj\Debug\Xbox Live Calculator.pdb
